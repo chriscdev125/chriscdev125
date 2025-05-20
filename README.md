@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chriscdev125
-- 🌱 I’m currently learning PYTHON, and C++
+- 🌱 I’m currently learning PYTHON, and LUA
 - 📫 How to reach me ...
 - ⚡ Fun fact: 🇧🇷 I’m brazilian
 
